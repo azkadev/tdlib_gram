@@ -1,5 +1,9 @@
 # Tdlib Gram (Untuk Bahan Belajar)
 
+
+![](./assets/icon.png)
+
+
 **Sebuah bahan dasar** untuk kamu yang ingin **membuat / berinteraksi** dengan **telegram api** terutama **menggunakan tdlib**, karena sampai saat ini tdlib adalah awalan yang bagus karena kamu tidak hanya bisa membuat **bot** melainkan **applikasi telegram sungguhan**.
 
 **applikasi ini tidak di design bagus** dalam arti ini **hanyalah contoh simple penggunaan library** [Telegram Client](https://github.com/azkadev/telegram_client)
@@ -34,6 +38,11 @@ ini adalah screenshot di buat pada tanggal **24-juli-2025** mungkin **tampilan b
 | ![](./screenshots/tdlib_gram/7.png) |                                     |                                     |
 
 ## Penting
+
+
+untuk semuanya ini adalah program yang mungkin bisa di salahgunakan sebagian orang, oleh karena itu saya tidak mengimplementasi bagian penting
+
+Ini bukan lah penipuan repository ini hanyalah sebuah contoh penggunaan library saya [Telegram Universe](https://github.com/azkadev/telegram_client).
 
 **sebelum menggunakan program** ini pastikan **akun kamu sudah akun lama** dan **aktif chat di group ya**. 
 
@@ -87,6 +96,8 @@ Jika kamu masih merasa tdlib tidak cocok untuk project kamu, coba beralih ke rep
 ## Bantu Saya
 
 Jika kamu merasa program ini berguna, kamu bisa support saya [GITHUB AZKADEV](https://github.com/azkadev) di link itu tersedia social media dan sponsor saya. saya tidak keberatan jika kamu hanya follow / donasi uang sedikit
+
+![](https://github.com/azkadev/azkadev/blob/main/assets/gopay.png)
 
 - https://www.patreon.com/c/azkadev
 - https://opencollective.com/azkadev
